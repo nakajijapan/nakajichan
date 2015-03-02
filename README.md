@@ -1,11 +1,11 @@
 # nakajichan
 
-say hello
+We can use the `say` commands via the WEB.
 
 ## Usage
 
 ```
 $ bundle install
-$ ruby main.rb
+$ bundle exec ruby main.rb
 $ curl -X GET http://localhost:4567?message=hello%20world
 ```
